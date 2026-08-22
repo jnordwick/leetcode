@@ -1,0 +1,4 @@
+Leetcode solutions
+
+I sometimes do the dailies.
+Somtimes I make them more interesting: one-liners, lambda abuse, simd/swar, etc.
